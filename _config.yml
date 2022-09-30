@@ -11,9 +11,9 @@ title                    : "Ayush Jaiswal"
 title_separator          : "-"
 name                     : &name "Ayush Jaiswal"
 description              : &description "About me"
-url                      : https://ayushjwl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://1ayushjwl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ayushjwl/ayushjwl.github.io"
+repository               : "1ayushjwl/1ayushjwl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
